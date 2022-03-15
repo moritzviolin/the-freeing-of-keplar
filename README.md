@@ -1,4 +1,4 @@
-#The Binding of Keplar
+The Binding of Keplar
 
 A game project in Java.
 
